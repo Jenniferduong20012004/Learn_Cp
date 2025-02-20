@@ -1,0 +1,1 @@
+{"name":"Local: GiaiMaCode","url":"f:\\CP\\GiaiMaCode.cpp","tests":[{"id":1737905841767,"input":"25114\n1111111111\n3333333333\n0","output":"6\n89\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\GiaiMaCode.cpp","group":"local","local":true}

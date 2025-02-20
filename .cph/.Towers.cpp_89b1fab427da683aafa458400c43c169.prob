@@ -1,0 +1,1 @@
+{"name":"Local: Towers","url":"f:\\CP\\Towers.cpp","tests":[{"id":1738295001510,"input":"5\n3 8 2 1 5","output":"2"},{"id":1738295197124,"input":"10\n10 4 5 9 4 10 2 7 4 6","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Towers.cpp","group":"local","local":true}

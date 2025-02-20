@@ -1,0 +1,1 @@
+{"name":"Local: Cong_Chua","url":"f:\\CP\\Cong_Chua.cpp","tests":[{"id":1737959429799,"input":"2\n5\n1 2 3 4 5\n1\n10 ","output":"9\n10"},{"id":1737959532161,"input":"1\n5\n19 55 25 58 67 ","output":"122"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Cong_Chua.cpp","group":"local","local":true}

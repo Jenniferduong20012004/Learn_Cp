@@ -1,0 +1,1 @@
+{"name":"Local: Mario","url":"f:\\CP\\Mario.cpp","tests":[{"id":1737950582366,"input":"7\n0 0 2 1 0 0 1","output":"6"},{"id":1737953112344,"input":"15\n0 0 1 0 0 2 0 0 1 0 0 0 0 0 0 ","output":"2038"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Mario.cpp","group":"local","local":true}

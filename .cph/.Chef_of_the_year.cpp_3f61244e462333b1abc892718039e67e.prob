@@ -1,0 +1,1 @@
+{"name":"Local: Chef_of_the_year","url":"f:\\CP\\Chef_of_the_year.cpp","tests":[{"id":1739373868992,"input":"2 2\nNewton England\nEuclid Greece\nNewton\nEuclid","output":"England\nEuclid"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Chef_of_the_year.cpp","group":"local","local":true}

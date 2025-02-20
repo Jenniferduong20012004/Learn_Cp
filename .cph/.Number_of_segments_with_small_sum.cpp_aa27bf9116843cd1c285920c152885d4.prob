@@ -1,0 +1,1 @@
+{"name":"Local: Number_of_segments_with_small_sum","url":"f:\\CP\\Number_of_segments_with_small_sum.cpp","tests":[{"id":1738845674631,"input":"7 20\n2 6 4 3 6 8 9","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Number_of_segments_with_small_sum.cpp","group":"local","local":true}

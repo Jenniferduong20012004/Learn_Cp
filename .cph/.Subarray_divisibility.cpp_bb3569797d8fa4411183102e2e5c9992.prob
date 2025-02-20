@@ -1,0 +1,1 @@
+{"name":"Local: Subarray_divisibility","url":"f:\\CP\\Subarray_divisibility.cpp","tests":[{"id":1738339546526,"input":"5\n3 1 2 7 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Subarray_divisibility.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Phan_Biet","url":"f:\\CP\\Phan_Biet.cpp","tests":[{"id":1737945476481,"input":"3 2\n1 3 1\n1\n3","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Phan_Biet.cpp","group":"local","local":true}

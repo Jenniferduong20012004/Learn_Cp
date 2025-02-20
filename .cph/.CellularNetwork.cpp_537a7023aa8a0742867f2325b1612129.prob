@@ -1,0 +1,1 @@
+{"name":"Local: CellularNetwork","url":"f:\\CP\\CellularNetwork.cpp","tests":[{"id":1739419257244,"input":"3 2\n-2 2 4\n-3 0","output":"4"},{"id":1739592782979,"input":"0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\CellularNetwork.cpp","group":"local","local":true}

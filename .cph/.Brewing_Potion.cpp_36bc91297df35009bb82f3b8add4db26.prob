@@ -1,0 +1,1 @@
+{"name":"Local: Brewing_Potion","url":"f:\\CP\\Brewing_Potion.cpp","tests":[{"id":1738058948891,"input":"5 7\n1 2 3 5 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Brewing_Potion.cpp","group":"local","local":true}

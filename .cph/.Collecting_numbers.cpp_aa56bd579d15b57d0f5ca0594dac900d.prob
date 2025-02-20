@@ -1,0 +1,1 @@
+{"name":"Local: Collecting_numbers","url":"f:\\CP\\Collecting_numbers.cpp","tests":[{"id":1738171318412,"input":"5\n4 2 1 5 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Collecting_numbers.cpp","group":"local","local":true}

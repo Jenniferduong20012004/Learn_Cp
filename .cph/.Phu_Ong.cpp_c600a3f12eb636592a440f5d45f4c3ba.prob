@@ -1,0 +1,1 @@
+{"name":"Local: Phu_Ong","url":"f:\\CP\\Phu_Ong.cpp","tests":[{"id":1737962735636,"input":"3\n55 19 41","output":"2 96"},{"id":1737989118179,"input":"5\n45 56 91 35 81 ","output":"3 228"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Phu_Ong.cpp","group":"local","local":true}

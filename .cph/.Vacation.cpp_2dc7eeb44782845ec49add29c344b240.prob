@@ -1,0 +1,1 @@
+{"name":"Local: Vacation","url":"f:\\CP\\Vacation.cpp","tests":[{"id":1739376221930,"input":"3\n10 40 70\n20 50 80\n30 60 90","output":"210"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Vacation.cpp","group":"local","local":true}

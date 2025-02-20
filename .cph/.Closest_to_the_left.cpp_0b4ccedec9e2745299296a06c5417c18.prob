@@ -1,0 +1,1 @@
+{"name":"Local: Closest_to_the_left","url":"f:\\CP\\Closest_to_the_left.cpp","tests":[{"id":1738984046967,"input":"5 5\n3 3 5 8 9\n2 4 8 1 10","output":"0\n2\n4\n0\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Closest_to_the_left.cpp","group":"local","local":true}

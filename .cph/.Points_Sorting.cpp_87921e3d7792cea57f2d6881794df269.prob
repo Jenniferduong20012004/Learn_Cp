@@ -1,0 +1,1 @@
+{"name":"Local: Points_Sorting","url":"f:\\CP\\Points_Sorting.cpp","tests":[{"id":1737857139456,"input":"3\n3 4 3\n2 4 3\n2 1 6","output":"2 1 6\n2 4 3\n3 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Points_Sorting.cpp","group":"local","local":true}

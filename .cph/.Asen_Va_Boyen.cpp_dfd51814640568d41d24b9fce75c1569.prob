@@ -1,0 +1,1 @@
+{"name":"Local: Asen_Va_Boyen","url":"f:\\CP\\Asen_Va_Boyen.cpp","tests":[{"id":1737948353147,"input":"2 3 5\n3 12 113 25714 88888","output":"ABAAB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Asen_Va_Boyen.cpp","group":"local","local":true}

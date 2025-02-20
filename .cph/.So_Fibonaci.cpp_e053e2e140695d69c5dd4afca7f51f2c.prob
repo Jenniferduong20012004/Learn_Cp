@@ -1,0 +1,1 @@
+{"name":"Local: So_Fibonaci","url":"f:\\CP\\So_Fibonaci.cpp","tests":[{"id":1737857471783,"input":"2","output":"1"},{"id":1737858018945,"input":"46","output":"836311896"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\So_Fibonaci.cpp","group":"local","local":true}
