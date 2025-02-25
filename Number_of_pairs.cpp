@@ -13,12 +13,13 @@ int main (){
             v.push_back (a);
         }
         sort (v.begin(), v.end());
-        long long left =0, right =0;
-        long long sum =0, ans =0;
-        while (right < n && left < n){
-            sum += v[right];
-            if (sum < )
-            right ++;
+        long long ans =0;
+        for (long long j =0; j < n; j++){
+            long long cur = v[j];
+            long long leftBound = lower_bound (v.begin()+j+1, v.end(), l- cur)- v.begin();
+            long long rightBound = upper_bound (v.begin()+j+1, v.end(), r- cur)- v.begin();
+            ans+= rightBound- leftBound;
         }
+        cout << ans<< endl;
     }
 }

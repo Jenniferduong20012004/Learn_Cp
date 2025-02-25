@@ -1,0 +1,1 @@
+{"name":"Local: Day_con_tang_2","url":"f:\\CP\\Day_con_tang_2.cpp","tests":[{"id":1740471688391,"input":"5\n1 1 3 4 1","output":"3\n1 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Day_con_tang_2.cpp","group":"local","local":true}
