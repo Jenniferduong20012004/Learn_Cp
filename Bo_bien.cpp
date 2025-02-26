@@ -1,17 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
-    // freopen("dpcsc.inp", "r", stdin);
-    // freopen("dpcsc.out", "w", stdout);
+    // freopen("dpbeach.inp", "r", stdin);
+    // freopen("dpbeach.out", "w", stdout);
     long long n;
     cin >> n;
-    vector <long long> capSoCong;
+    vector <long long> voOc;
     vector <vector<long long>> dp (n, vector<long long> (51, 1));
     // 1 <=d <=50
     for (long long i =0; i < n; i++){
         long long a;
         cin >> a;
-        capSoCong.push_back (a);
+        voOc.push_back (a);
     }
     long long maxi =1;
     for (long long i =1; i < n; i++){

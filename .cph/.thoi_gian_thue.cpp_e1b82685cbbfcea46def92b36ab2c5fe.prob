@@ -1,0 +1,1 @@
+{"name":"Local: thoi_gian_thue","url":"f:\\CP\\thoi_gian_thue.cpp","tests":[{"id":1740532659117,"input":"5\n1 2\n3 5\n6 8\n9 10\n2 20","output":"19"},{"id":1740533060345,"input":"5\n15 48\n3 55\n11 26\n9 46\n35 35","output":"53"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\thoi_gian_thue.cpp","group":"local","local":true}

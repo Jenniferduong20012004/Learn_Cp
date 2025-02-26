@@ -1,0 +1,1 @@
+{"name":"Local: Batman","url":"f:\\CP\\Batman.cpp","tests":[{"id":1740490691399,"input":"1\n6 4\n6 3 5 2 4 5\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Batman.cpp","group":"local","local":true}

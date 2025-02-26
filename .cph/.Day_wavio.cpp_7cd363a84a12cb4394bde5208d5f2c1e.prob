@@ -1,0 +1,1 @@
+{"name":"Local: Day_wavio","url":"f:\\CP\\Day_wavio.cpp","tests":[{"id":1740531850884,"input":"7\n1 2 3 4 5 2 1\n","output":"7"},{"id":1740532132907,"input":"5\n3 1 1 4 5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Day_wavio.cpp","group":"local","local":true}
