@@ -1,0 +1,1 @@
+{"name":"Local: Cong_ty_cua_san","url":"f:\\CP\\Cong_ty_cua_san.cpp","tests":[{"id":1740621308288,"input":"2\n4\n1 5 10\n3 7 8\n5 9 9\n6 9 8\n3\n1 5 10\n1 6 12\n1 3 15\n","output":"18\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Cong_ty_cua_san.cpp","group":"local","local":true}

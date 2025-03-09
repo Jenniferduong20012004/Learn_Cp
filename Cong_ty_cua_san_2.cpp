@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
-    // freopen("dpsancorp.inp", "r", stdin);
-    // freopen("dpsancorp.out", "w", stdout);
+    // freopen("dpsancorp2.inp", "r", stdin);
+    // freopen("dpsancorp2.out", "w", stdout);
     long long test ;
     cin >> test;
     for (long long te =0; te < test; te++){
@@ -29,7 +29,7 @@ int main (){
                 }
             }
         });
-        vector <long long> dp (n, 0);
+        vector <long long> dp (n+1, 0);
         dp[0]= get <2> (v[0]);
         long long maxi =dp[0];
         for (long long i =1; i < n; i++){
