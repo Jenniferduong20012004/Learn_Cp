@@ -9,10 +9,10 @@ int main (){
         long long n;
         cin >> n;
         vector <tuple <long long, long long ,long long>> v (n+1);
-        for (long long i =0; i < n; i++){
+        for (long long i =1; i <=n; i++){
             long long a,b,c;
             cin >>a>>b>>c;
-            b +=a;
+            b +=a-1;
             v[i]=make_tuple (a,b,c);
         }
         sort(v.begin()+1, v.end(), [](const auto &a, const auto &b){
@@ -23,13 +23,14 @@ int main (){
                 return get<1> (a)< get <1> (b);
             }
         });
-        map<long long , long long> dp;
+    map<long long , long long> dp;
     dp[0] = 0;
     for (int i = 1 ; i <=n ; i++) {
         dp[get <1>(v[i])] = dp[get <1>(v[i-1])];
         auto it = dp.lower_bound(get <0>(v[i]));
         it--;   
         dp[get <1>(v[i])] = max(dp[get <1>(v[i])], get <2>(v[i]) + it->second);
+        // cout << dp[get<1>(v[i])]<< endl;
     }
     cout << dp[get <1>(v[n])]<< endl;
     }
