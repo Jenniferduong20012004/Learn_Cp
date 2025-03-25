@@ -1,0 +1,1 @@
+{"name":"Local: Counting_rooms","url":"f:\\CP\\Counting_rooms.cpp","tests":[{"id":1742916177674,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Counting_rooms.cpp","group":"local","local":true}
