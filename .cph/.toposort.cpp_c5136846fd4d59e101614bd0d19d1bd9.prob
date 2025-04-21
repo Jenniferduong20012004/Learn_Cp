@@ -1,0 +1,1 @@
+{"name":"Local: toposort","url":"f:\\CP\\toposort.cpp","tests":[{"id":1744898186252,"input":"8 9\n1 4\n1 2\n4 2\n4 3\n3 2\n5 2\n3 5\n8 2\n8 6","output":"1 4 3 5 7 8 2 6 "},{"id":1744898446932,"input":"2 2\n1 2\n2 1","output":"Sandro fails."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\toposort.cpp","group":"local","local":true}
