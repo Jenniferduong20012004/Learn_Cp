@@ -12,6 +12,7 @@ int main (){
     }
     vector <long long> dist (m+1, LLONG_MAX);
     priority_queue <pair<long long, long long>, vector <pair<long long, long long>>, greater<>> pq;
+    vector <long long> dp
     pq.push ({0, 1});
     vector <long long> startPosition (m+1, 0);
     dist[1] = 0;

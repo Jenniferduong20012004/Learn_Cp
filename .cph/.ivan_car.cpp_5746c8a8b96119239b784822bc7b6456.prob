@@ -1,0 +1,1 @@
+{"name":"Local: ivan_car","url":"f:\\CP\\ivan_car.cpp","tests":[{"id":1745210178084,"input":"3 2\n1 2\n3 2\n1 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\ivan_car.cpp","group":"local","local":true}

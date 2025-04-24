@@ -1,0 +1,1 @@
+{"name":"Local: Possible_Friends","url":"f:\\CP\\Possible_Friends.cpp","tests":[{"id":1745337623670,"input":"3\nNYN\nYNY\nNYN\nNYYY\nYNNY\nYNNN\nYYNN\nNNYNNNN\nNNYNNNN\nYYNYNNN\nNNYNYNN\nNNNYNYY\nNNNNYNN\nNNNNYNN\n","output":"0 1\n2 2\n3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\Possible_Friends.cpp","group":"local","local":true}

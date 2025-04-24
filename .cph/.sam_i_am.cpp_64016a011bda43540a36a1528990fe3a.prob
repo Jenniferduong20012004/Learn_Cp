@@ -1,0 +1,1 @@
+{"name":"Local: sam_i_am","url":"f:\\CP\\sam_i_am.cpp","tests":[{"id":1745217578600,"input":"4 4 3\n1 1\n1 4\n3 2\n4 4 2\n1 1\n2 2\n0 0 0","output":"2 r1 r3\n2 r1 r2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\sam_i_am.cpp","group":"local","local":true}
