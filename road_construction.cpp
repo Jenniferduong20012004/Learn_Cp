@@ -3,23 +3,20 @@ using namespace std;
 int main (){
     long long a, b;
     while (cin >> a>> b){
-        if (a==0){
+        if (a ==0 && b ==0){
             break;
         }
-        vector <vector <double>> dist (a+1, vector <double>(a+1,0));
-        for (long long i = 0; i < b; i++){
-            long long c, d, e;
-            cin >> c>> d>> e;
-            dist[c][d]= max (dist[c][d], e*1.0/100);
-            dist[d][c]= max (dist[d][c], e*1.0/100);
+        vector <pair<long long>> v (a+1);
+        for (long long i =1; i <= a; i++){
+            long long c, d;
+            cin >> c>> d;
+            v[i]={c,d};
         }
-        for (long long k=1; k <=a; k++){
-            for (long long i =1; i <=a; i++){
-                for (long long j =1; j <=a; j++){
-                    dist[i][j]= max (dist[i][j], dist[i][k]* dist[k][j]);
-                }
-            }
+        vector <vector <long long>> curRoad (a+1, vector <long long> (a+1, LLONG_MAX));
+        for (long long i =1; i <=b; i++){
+            long long c, d;
+            cin >> c>> d;
+            curRoad [c][d]= sqrt (v[c].first)
         }
-        cout <<  fixed << setprecision(6)<<dist[1][a]*100<< " percent"<<endl;
     }
 }

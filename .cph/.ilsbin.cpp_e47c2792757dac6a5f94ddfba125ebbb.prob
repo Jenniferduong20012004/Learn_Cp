@@ -1,0 +1,1 @@
+{"name":"Local: ilsbin","url":"f:\\CP\\ilsbin.cpp","tests":[{"id":1745487951283,"input":"4 4\nunion 1 2\nunion 1 3\nget 1 4\nget 2 3","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP\\ilsbin.cpp","group":"local","local":true}
